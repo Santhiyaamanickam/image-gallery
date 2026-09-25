@@ -1,6 +1,7 @@
 import ImageCard from "./components/ImageCard";
 import "./App.css";
 
+
 function App() {
   const images = [
     {
